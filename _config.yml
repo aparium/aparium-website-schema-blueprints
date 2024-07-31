@@ -1,14 +1,19 @@
-title: Your awesome title
+title: 'Aparium Hotel Group | Schema Markup Blueprints for Website Partners'
+logo: /assets/img/logo.png
+google_analytics:
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Aparium Hotel Group
+  email: info@aparium.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+    As our SEO partner, we recognize the importance of implementing structured data 
+    markup to ensure that search engines and users alike can efficiently access and 
+    understand essential information about your hotel. This strategy not only enhances 
+    user engagement but also has the potential to increase conversion rates. We rely 
+    on your expertise to refine and keep us updated on the latest developments 
+    concerning the use of the schema.org structure and best practices.
 
 # Build settings
 
